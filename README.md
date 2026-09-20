@@ -73,14 +73,6 @@ Spring Boot 기반 질문·답변 웹 서비스
 
 ---
 
-## 📝 Writing
-
-개발하면서 배운 내용을 기록하고 있습니다.
-
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://isjmovo.tistory.com/)
-
----
-
 ## 🔗 Links
 
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://isjmovo.notion.site/Jeongmin-Kim-b4daf8dfe875402aafea2f61406bfcf3?pvs=4)
